@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Demo Suite" verbose="1" >
+    <parameter name="excel_path" value="data/demo.xlsx"/>
+    <parameter name="excel_sheet" value="data/demo"/>
+    <test name="Demo Test" >
+        <classes>
+            <class name="com.qinjun.autotest.tstest.excel.DemoExcelCase" />
+        </classes>
+    </test>
+</suite>
