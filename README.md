@@ -1,7 +1,7 @@
 # TSTest - DataDriving
 
 ## Introduction
-TSTest-DataDriving(Test Service-Test-Datadriving) is a datadriving test framework
+TSTest-DataDriving(Test Service-Test-DataDriving) is a data driving test framework
 ## Author
 Jun Qin
 ## Bug and issues
